@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Coding/Projectile move.js">
+    <Files>
+      <File FileName="Assets/Coding/Missile move.js" Line="45" Column="43" />
+      <File FileName="Assets/Coding/GUI HelpKey.js" Line="12" Column="2" />
+      <File FileName="Assets/Coding/MoveShip.js" Line="220" Column="19" />
+      <File FileName="Assets/Coding/Enemy Mechanismus.js" Line="105" Column="43" />
+      <File FileName="Assets/Coding/Projectile move.js" Line="27" Column="40" />
+      <File FileName="Assets/Coding/AmmoScript.js" Line="11" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

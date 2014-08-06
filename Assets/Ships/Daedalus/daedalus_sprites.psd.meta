@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 683f9766fcab745b08cf5972f47db20a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: daedalus_idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_thrust
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 920
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_hyper
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 920
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_projectile
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 959
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_beam
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 958
+        width: 200
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 792
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 792
+        width: 128
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 790
+        width: 139
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 774
+        width: 162
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_destroy_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 761
+        width: 197
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_shield
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 641
+        width: 192
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: daedalus_missiles
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 957
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
