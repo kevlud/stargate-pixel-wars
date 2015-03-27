@@ -13,7 +13,7 @@ function Update () {
 
  if(time > 3){
  	count = true;
- 	guiTexture.texture = help;
+ 	GetComponent.<GUITexture>().texture = help;
  	}
  	
  

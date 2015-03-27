@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Coding/Planet spin.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Phoenix/Assets/mouseorbit.cs">
     <Files>
-      <File FileName="Assets/Coding/Planet spin.js" Line="1" Column="1" />
+      <File FileName="../../Phoenix/Assets/mouseorbit.js" Line="36" Column="37" />
+      <File FileName="../../Phoenix/Assets/mouseorbit.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
